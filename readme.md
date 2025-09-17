@@ -4,7 +4,7 @@ so there is no requirements.txt required
 
 uv sync
 
-this install all the dependencies of the project
+this installs all the dependencies of the project 
 
 
 
