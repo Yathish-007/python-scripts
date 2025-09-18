@@ -1,0 +1,5 @@
+/* src/assets/main.css */
+@import 'tailwindcss';
+body {
+  @apply bg-gray-50 dark:bg-gray-900;
+}
